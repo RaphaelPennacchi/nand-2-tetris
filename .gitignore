@@ -1,3 +1,4 @@
 *.out
 *.gif
 tools
+.DS_Store

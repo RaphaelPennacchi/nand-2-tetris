@@ -20,5 +20,4 @@ CHIP Or8Way {
         Or(a=holder4, b=in[5], out=holder5);
         Or(a=holder5, b=in[6], out=holder6);
         Or(a=holder6, b=in[7], out=out);
-    // Put your code here:
 }
